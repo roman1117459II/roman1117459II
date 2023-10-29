@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Rakib
-- 👀 I’m interested in Full Stack Web Development and Machine Learning Engineering
+- 👀 I’m interested in Full Stack Web Application, Software and Machine Learning Engineering
 - 🌱 I’m currently learning Frontend Engineering using Angular
 - 💞️ I’m looking to collaborate with Experienced Developer
 - 📫 How to reach me Facebook, Linkedin or Twitter
