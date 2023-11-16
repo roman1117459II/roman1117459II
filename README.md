@@ -5,8 +5,8 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Todays Task-
-1) Complete css track from coursera
-2) js oop from phitron 
+1) just watch ds and algo
+2) boostrap tuto all 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
