@@ -5,11 +5,11 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) Boostrap project before 10pm
-2) do some ds algo for job
+1) Job interview
+2) phitron all video
 3) gym 12-1
-4) Job preparation for welldev (complete ds tasks from linkedin) also from phitron basic dsa and sql and OOP
-5) walk in afternoon after 5pm  or play games
+4) documentation w3school css html
+5) finish all the task before 5:30pm
 6) make some passive income idea or learn something new to earn money :))) need it badly
 
 <!---
