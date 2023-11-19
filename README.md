@@ -5,12 +5,7 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) Job interview
-2) phitron all video
-3) gym 12-1
-4) documentation w3school css html
-5) finish all the task before 5:30pm
-6) make some passive income idea or learn something new to earn money :))) need it badly
+1) Practice all the javascript problem given by phitron module
 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
