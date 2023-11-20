@@ -5,10 +5,10 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) Practice all the javascript problem given by phitron module
-2) Gym 1-2
-3) HTML all + github
-4) passive earning tips before + and make a cool project
+1) FUNCTION from module 5.5 phitron and Dom Manipulation
+2) w3school  for clear concept
+3) start new project in real life real something
+4) start blogging and earn money by blogging
 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
