@@ -8,7 +8,7 @@ Updated Task-
 1) FUNCTION from module 5.5 phitron and Dom Manipulation
 2) w3school  for clear concept
 3) start new project in real life real something
-4) start blogging and earn money by blogging
+4) start blogging for side hustle
 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
