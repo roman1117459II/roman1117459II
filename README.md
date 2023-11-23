@@ -5,8 +5,8 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) tommorow finish module of phitron (8-11)
-2) css all with html do some task and push it to github (before 5 pm)
+1) finish the last project about api and css bootstrap
+2) career switch guide make a project idea
 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
