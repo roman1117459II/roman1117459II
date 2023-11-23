@@ -5,8 +5,8 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) finish the last project about api and css bootstrap
-2) career switch guide make a project idea
+1) Bootstrap all from w3school morning shift(2hour)
+2) strat project work using js and apiiiiii(2hour)
 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
