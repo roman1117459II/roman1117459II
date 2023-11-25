@@ -5,7 +5,9 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) Happy project days using javascript tutorial before 6pm
+1) finish project 9-12pm
+2) django course complete 2-5
+
 
 <!---
 roman1117459II/roman1117459II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
