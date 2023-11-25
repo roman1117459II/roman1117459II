@@ -7,6 +7,8 @@
 Updated Task-
 1) finish project 9-12pm
 2) django course complete 2-5
+3) fiverr gig work start
+
 
 
 <!---
