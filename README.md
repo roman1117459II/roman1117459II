@@ -5,9 +5,11 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) finish project 9-12pm
-2) django course complete 2-5
-3) fiverr gig work start
+1) solving guide from chatgpt (12-2)
+2) django video 1st module complete (2-5)
+3) frontend javascript w3school(8-10pm)
+4) 10-11:30 movie
+5) manga for 30 min
 
 
 
