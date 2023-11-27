@@ -5,8 +5,8 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) finish 1-2 module of django
-2) basic solving idea using python
+1) Tomorrow morning work - finish 2nd module 10-1 pm
+2) finish excercise before 6 pm
 
 
 
