@@ -5,11 +5,9 @@
 - 📫 How to reach me Facebook, Linkedin or Twitter
 
 Updated Task-
-1) solving guide from chatgpt (12-2)
-2) django video 1st module complete (2-5)
-3) frontend javascript w3school(8-10pm)
-4) 10-11:30 movie
-5) manga for 30 min
+1) finish 1-2 module of django
+2) basic solving idea using python
+
 
 
 
