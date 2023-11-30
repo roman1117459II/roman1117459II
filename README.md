@@ -7,8 +7,9 @@
 Updated Task-
 
 Morning Support session : 11 am - 1 pm Evening Support session: 4 pm - 6 pm Night Support session: 9 pm - 11 pm
-1) Tomorrow morning work - finish 2nd module 10-1 pm
-2) finish excercise before 6 pm
+1) FINISH the module practice before 6pm
+2) take help session if want
+3) make a gig for business
 
 
 
